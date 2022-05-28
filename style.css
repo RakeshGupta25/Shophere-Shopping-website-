@@ -1,0 +1,31 @@
+.navbar .navbar-brand
+{
+   font-size: 35px; 
+   color:orange;
+}
+.navbar .navbar-brand i{
+    color: black;
+}
+
+.navbar .navbar-brand span{
+    color: green;
+}
+.foodform ul{
+    margin: 5px;
+}
+#id_food_Type div{
+    display: inline;
+}
+
+.footery{
+    padding-top: 10px;
+    padding-bottom: 1px;
+    background-color: #6C757D;
+    font-style: italic;
+    
+    text-align: left;
+    /* #212529; */
+    color: white;
+
+    
+}
